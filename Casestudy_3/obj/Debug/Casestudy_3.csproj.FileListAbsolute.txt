@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\CaseStudy\Casestudy_3\bin\Debug\Casestudy_3.exe.config
+C:\Users\Administrator\source\repos\CaseStudy\Casestudy_3\bin\Debug\Casestudy_3.exe
+C:\Users\Administrator\source\repos\CaseStudy\Casestudy_3\bin\Debug\Casestudy_3.pdb
+C:\Users\Administrator\source\repos\CaseStudy\Casestudy_3\obj\Debug\Casestudy_3.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CaseStudy\Casestudy_3\obj\Debug\Casestudy_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\CaseStudy\Casestudy_3\obj\Debug\Casestudy_3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CaseStudy\Casestudy_3\obj\Debug\Casestudy_3.exe
+C:\Users\Administrator\source\repos\CaseStudy\Casestudy_3\obj\Debug\Casestudy_3.pdb

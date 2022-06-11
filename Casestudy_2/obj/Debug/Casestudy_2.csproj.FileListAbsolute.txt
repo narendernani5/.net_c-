@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\CaseStudy\Casestudy_2\bin\Debug\Casestudy_2.exe.config
+C:\Users\Administrator\source\repos\CaseStudy\Casestudy_2\bin\Debug\Casestudy_2.exe
+C:\Users\Administrator\source\repos\CaseStudy\Casestudy_2\bin\Debug\Casestudy_2.pdb
+C:\Users\Administrator\source\repos\CaseStudy\Casestudy_2\obj\Debug\Casestudy_2.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CaseStudy\Casestudy_2\obj\Debug\Casestudy_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\CaseStudy\Casestudy_2\obj\Debug\Casestudy_2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CaseStudy\Casestudy_2\obj\Debug\Casestudy_2.exe
+C:\Users\Administrator\source\repos\CaseStudy\Casestudy_2\obj\Debug\Casestudy_2.pdb
+D:\Narender\RPA\.Net\Practice\CaseStudy\CaseStudy\Casestudy_2\bin\Debug\Casestudy_2.exe.config
+D:\Narender\RPA\.Net\Practice\CaseStudy\CaseStudy\Casestudy_2\bin\Debug\Casestudy_2.exe
+D:\Narender\RPA\.Net\Practice\CaseStudy\CaseStudy\Casestudy_2\bin\Debug\Casestudy_2.pdb
+D:\Narender\RPA\.Net\Practice\CaseStudy\CaseStudy\Casestudy_2\obj\Debug\Casestudy_2.csproj.AssemblyReference.cache
+D:\Narender\RPA\.Net\Practice\CaseStudy\CaseStudy\Casestudy_2\obj\Debug\Casestudy_2.csproj.SuggestedBindingRedirects.cache
+D:\Narender\RPA\.Net\Practice\CaseStudy\CaseStudy\Casestudy_2\obj\Debug\Casestudy_2.csproj.CoreCompileInputs.cache
+D:\Narender\RPA\.Net\Practice\CaseStudy\CaseStudy\Casestudy_2\obj\Debug\Casestudy_2.exe
+D:\Narender\RPA\.Net\Practice\CaseStudy\CaseStudy\Casestudy_2\obj\Debug\Casestudy_2.pdb
